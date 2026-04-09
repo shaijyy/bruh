@@ -1,5 +1,6 @@
 # BRUHIFF
-**B**lazingly **r**apid **u**ncompressed **h**arebrained Image File Format.
+**B**lazingly **r**apid **u**ncompressed **h**arebrained Image File Format.  
+[![](https://img.shields.io/badge/status-stupidly_stupid-orange?style=plastic)](#)&nbsp;&nbsp;[![](https://img.shields.io/badge/python-is_cool-black?style=plastic&logo=python&logoColor=white)](#)&nbsp;&nbsp;[![](https://img.shields.io/badge/rust-is_fine_too-darkred?style=plastic&logo=rust&logoColor=white)](#)
 
 Also known as BRUHIFF or BRUH.
 
