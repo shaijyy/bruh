@@ -29,6 +29,7 @@ Examples:
 You can render .bruh images in websites. for some reason.
 1. Download `bruh.min.js` / `bruh.js`.
 2. Import the Script to your website using `<script src="path/to/bruh.min.js"></script>`.
+3. Use `<img>` tag to display .bruh images as if you were to display a normal image.
 
 ## Add Default Image Viewer to .bruh Images
 1. Double-click on `image.bruh` using your File Explorer.
